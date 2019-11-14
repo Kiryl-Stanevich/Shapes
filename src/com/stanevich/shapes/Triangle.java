@@ -11,6 +11,6 @@ public class Triangle
         }
         public void Draw ()
         {
-            
+
         }
 }
