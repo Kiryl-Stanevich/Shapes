@@ -7,8 +7,10 @@ public class Triangle
     Point p3 = new Point();
         public void getCenter ()
         {
+
         }
         public void Draw ()
         {
+            
         }
 }
