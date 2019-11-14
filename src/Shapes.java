@@ -1,5 +1,6 @@
 import java.awt.*;
 import javax.swing.*;
+import com.stanevich.shapes.*;
 public class Shapes
     {
     public static void main (String [] args)
