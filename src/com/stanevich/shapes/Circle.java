@@ -1,12 +1,13 @@
 package com.stanevich.shapes;
 
 public class Circle {
-    Point p1 = new Point();
+    Point p1Circle = new Point();
     public int r = 0;
 
-    public Circle (Point p1)
+    public Circle (Point p1, int r)
     {
-        this.p1 = p1;
+        this.p1Circle = p1;
+        this.r = r;
     }
 
     public void getCenter ()
@@ -16,5 +17,7 @@ public class Circle {
     public void Draw ()
     {
     }
-
+    public Circle(Point p1)
+    {
+    }
 }
